@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:00C6FF&height=200&section=header&text=Jayed%20Ahmed%20Asif&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
@@ -83,7 +83,7 @@ I am a developer interested in building practical software solutions and explori
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=5500&pause=2200&color=00C6FF&center=true&vCenter=true&width=850&height=80&lines=%3E+THINK.+CODE.+CREATE.;%3E+DEBUG.+IMPROVE.+REPEAT.;%3E+NEW+CHALLENGE+DETECTED...; %3E+READY+FOR+THE+NEXT+LEVEL!" alt="Pixel system log" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=5500&pause=2200&color=00C6FF&center=true&vCenter=true&width=850&height=80&lines=%3E+THINK.+CODE.+CREATE.;%3E+DEBUG.+IMPROVE.+REPEAT.;%3E+NEW+CHALLENGE+DETECTED...;%3E+READY+FOR+THE+NEXT+LEVEL!" alt="Pixel system log" />
 
 </div>
 
@@ -118,7 +118,8 @@ I am a developer interested in building practical software solutions and explori
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayed-ahmed-asif&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=450&custom_title=Most%20Used%20Languages" width="60%" />
+<!-- 🦇 Bat-Signal styled Most Used Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayed-ahmed-asif&layout=donut&theme=dark&hide_border=false&border_color=FFD400&bg_color=0B0B0F&title_color=FFD400&text_color=FFE866&langs_count=8&card_width=450&custom_title=%F0%9F%A6%87%20Most%20Used%20Languages" width="60%" />
 
 </div>
 
