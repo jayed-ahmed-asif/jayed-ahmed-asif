@@ -38,64 +38,55 @@ I am a developer interested in building practical software solutions and explori
 
 ---
 
-## 🎮 Developer Mode
+## 🦇 Mission Control
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=5000&pause=2000&color=00FFB3&center=true&vCenter=true&width=850&height=70&lines=%3E+SYSTEM+BOOTING...;%3E+WELCOME+PLAYER+ONE;%3E+DEVELOPER+MODE+ACTIVATED" alt="Pixel system boot animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=5000&pause=2000&color=F5C518&center=true&vCenter=true&width=850&height=65&lines=GOTHAM+SYSTEM+ONLINE;BATMOBILE+PROTOCOL+ACTIVATED;WELCOME+TO+MISSION+CONTROL" alt="Gotham Mission Control animation" />
 
 </div>
 
-### 🟢 SYSTEM INFORMATION
-
 <div align="center">
 
-| SYSTEM | INFORMATION |
+<!-- Upload your Batmobile GIF to assets/batmobile.gif in your profile repository -->
+
+<img src="./assets/batmobile.gif" width="100%" alt="Animated Batmobile driving through Gotham at night" />
+
+</div>
+
+### 🖥️ GOTHAM SYSTEM STATUS
+
+| SYSTEM | STATUS |
 |:---|:---|
-| PLAYER NAME | Jayed Ahmed Asif |
-| PLAYER TYPE | Software Developer |
-| OPERATING MODE | BUILDING |
-| ENVIRONMENT | GitHub |
-| STATUS | EXPLORING NEW IDEAS |
+| OPERATOR | Jayed Ahmed Asif |
+| BASE | GOTHAM / GITHUB |
+| MODE | DEVELOPMENT |
+| MAIN OBJECTIVE | BUILDING INTELLIGENT SYSTEMS |
+| PROTOCOL | NEVER STOP LEARNING |
 
-</div>
-
-### 🕹️ DEVELOPMENT MISSIONS
+### ⚡ ACTIVE MISSIONS
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=4500&pause=1800&color=FF6B9D&center=true&vCenter=true&width=850&height=100&lines=%5B01%5D+BUILD+USEFUL+SOFTWARE;%5B02%5D+EXPLORE+AI+%26+ML;%5B03%5D+DEVELOP+INTELLIGENT+SYSTEMS;%5B04%5D+EXPLORE+SIGNAL+PROCESSING" alt="Pixel development missions" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=5000&pause=1800&color=F5C518&center=true&vCenter=true&width=850&height=100&lines=%3E+BUILD+ADVANCED+SOFTWARE;%3E+EXPLORE+ARTIFICIAL+INTELLIGENCE;%3E+ENGINEER+INTELLIGENT+SYSTEMS;%3E+MASTER+SIGNAL+PROCESSING" alt="Active missions animation" />
 
 </div>
 
-### ⚡ TECHNOLOGY POWER
+### 🦇 BATCOMPUTER
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MACHINE_LEARNING-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SOFTWARE_ENGINEERING-00A6A6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DIGITAL_SIGNAL_PROCESSING-FF6B9D?style=for-the-badge" />
-
-</div>
-
-### 📟 SYSTEM LOG
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=5500&pause=2200&color=00C6FF&center=true&vCenter=true&width=850&height=80&lines=%3E+THINK.+CODE.+CREATE.;%3E+DEBUG.+IMPROVE.+REPEAT.;%3E+NEW+CHALLENGE+DETECTED...; %3E+READY+FOR+THE+NEXT+LEVEL!" alt="Pixel system log" />
+<img src="https://img.shields.io/badge/GOTHAM-ONLINE-F5C518?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/DEVELOPER-MODE-A0A0A0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/THREAT-UNKNOWN-222222?style=for-the-badge" />
 
 </div>
 
 <div align="center">
 
-<a href="https://github.com/jayed-ahmed-asif">
-<img src="https://img.shields.io/badge/OPEN-PLAYER%20PROFILE-181717?style=for-the-badge&logo=github" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=5500&pause=2000&color=F5C518&center=true&vCenter=true&width=850&height=70&lines=THINK+LIKE+A+DETECTIVE;BUILD+LIKE+AN+ENGINEER;CODE+IN+THE+SHADOWS" alt="Batcomputer message" />
 
 </div>
----
-
 ## 🛠️ Technical Toolkit
 
 <div align="center">
