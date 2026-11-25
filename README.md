@@ -42,7 +42,7 @@ I am a developer interested in building practical software solutions and explori
 
 <div align="center">
 
-<img src="./assets/spectrum.svg" alt="Animated spectrum analyzer" width="100%" />
+<img src="https://raw.githubusercontent.com/jayed-ahmed-asif/jayed-ahmed-asif/main/assets/spectrum.svg" alt="Animated spectrum analyzer" width="100%" /> />
 
 <br/><br/>
 
