@@ -35,7 +35,10 @@
 # 🌟 About Me
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=Building+and+learning+every+day;Exploring+AI%2FML+and+Signal+Processing;Turning+ideas+into+practical+projects" alt="About me animation" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4500&pause=1800&color=FF6B9D&center=true&vCenter=true&width=850&lines=Building+useful+software+and+sharing+the+work;Exploring+Artificial+Intelligence+%26+Machine+Learning;Learning+Deep+Learning+%26+Digital+Signal+Processing;Exploring+Biomedical+%26+Astronomical+Signal+Processing;Turning+ideas+into+practical+projects"
+    alt="About Me animated text"
+  />
 </p>
 
 - 💻 Building and experimenting with **software and intelligent systems**
