@@ -39,12 +39,6 @@ I'm interested in software development, artificial intelligence, machine learnin
 
 ## 🛠️ Technical Toolkit
 
-### Programming Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayed-ahmed-asif&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Most Used Languages" />
-</p>
-
 ### Technologies & Tools
 
 <p align="center">
@@ -62,10 +56,6 @@ I'm interested in software development, artificial intelligence, machine learnin
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=jayed-ahmed-asif&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github" width="75%" alt="GitHub Statistics" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=jayed-ahmed-asif&theme=radical&hide_border=true" width="75%" alt="GitHub Streak" />
 
 <br/><br/>
 
@@ -133,6 +123,44 @@ I'm interested in software development, artificial intelligence, machine learnin
   <img src="https://img.shields.io/badge/Software%20Engineering-00C6FF?style=for-the-badge&logo=code&logoColor=black" alt="Software Engineering" />
   <img src="https://img.shields.io/badge/Signal%20Processing-FF6B9D?style=for-the-badge&logo=signal&logoColor=white" alt="Signal Processing" />
 </p>
+
+---
+
+## 🏆 Achievements & Certifications
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=4500&pause=1800&color=FFD700&center=true&vCenter=true&width=600&lines=ACHIEVEMENT+UNLOCKED!;CERTIFICATES+%26+MILESTONES;LEVEL+UP+YOUR+SKILLS!" alt="Achievements Animation" />
+
+</div>
+
+<table width="100%">
+<tr>
+<th align="center">🏅 Achievement / Certificate</th>
+<th align="center">🏢 Organization</th>
+<th align="center">🔗 Link</th>
+</tr>
+<tr>
+<td align="center">Certificate Name 01</td>
+<td align="center">Issuing Organization</td>
+<td align="center"><a href="YOUR_CERTIFICATE_LINK">View Certificate ↗</a></td>
+</tr>
+<tr>
+<td align="center">Certificate Name 02</td>
+<td align="center">Issuing Organization</td>
+<td align="center"><a href="YOUR_CERTIFICATE_LINK">View Certificate ↗</a></td>
+</tr>
+<tr>
+<td align="center">Award / Achievement 01</td>
+<td align="center">Organization</td>
+<td align="center"><a href="YOUR_ACHIEVEMENT_LINK">View Achievement ↗</a></td>
+</tr>
+<tr>
+<td align="center">Competition / Hackathon</td>
+<td align="center">Organization</td>
+<td align="center"><a href="YOUR_ACHIEVEMENT_LINK">View Achievement ↗</a></td>
+</tr>
+</table>
 
 ---
 
