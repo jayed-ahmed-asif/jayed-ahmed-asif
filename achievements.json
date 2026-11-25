@@ -1,0 +1,26 @@
+{
+  "_help": "Add a new achievement by copying one block. type = certificate | course | competition | project | other. Leave link empty to show a dash.",
+  "achievements": [
+    {
+      "title": "Your Certificate or Award Title",
+      "issuer": "Issuer / Organization",
+      "date": "Month YYYY",
+      "type": "certificate",
+      "link": "https://example.com/replace-me"
+    },
+    {
+      "title": "Course Completion",
+      "issuer": "Coursera / edX / Udemy",
+      "date": "Month YYYY",
+      "type": "course",
+      "link": "https://example.com/replace-me"
+    },
+    {
+      "title": "Competition / Hackathon",
+      "issuer": "Organizer",
+      "date": "Month YYYY",
+      "type": "competition",
+      "link": "https://example.com/replace-me"
+    }
+  ]
+}
