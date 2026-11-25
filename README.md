@@ -42,74 +42,58 @@ I am a developer interested in building practical software solutions and explori
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=4500&pause=1800&color=00C6FF&center=true&vCenter=true&width=850&height=60&lines=PLAYER+1%3A+JAYED+AHMED+ASIF;DEVELOPER+MODE%3A+ACTIVE;MISSION%3A+BUILD+SOMETHING+USEFUL" alt="Pixel Developer Mode animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=5000&pause=2000&color=00FFB3&center=true&vCenter=true&width=850&height=70&lines=%3E+SYSTEM+BOOTING...;%3E+WELCOME+PLAYER+ONE;%3E+DEVELOPER+MODE+ACTIVATED" alt="Pixel system boot animation" />
 
 </div>
 
-### 🕹️ PLAYER PROFILE
-
-| Attribute | Status |
-|---|---|
-| Player | Jayed Ahmed Asif |
-| Class | Software Developer |
-| Primary Platform | GitHub |
-| Mode | Building & Exploring |
-| Current Mission | Developing Practical Solutions |
-
-### ⚡ SKILL UNIVERSE
+### 🟢 SYSTEM INFORMATION
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AI%20%26%20ML-EXPLORING-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Software%20Development-BUILDING-00C6FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Signal%20Processing-INTERESTED-FF6B9D?style=for-the-badge" />
+| SYSTEM | INFORMATION |
+|:---|:---|
+| PLAYER NAME | Jayed Ahmed Asif |
+| PLAYER TYPE | Software Developer |
+| OPERATING MODE | BUILDING |
+| ENVIRONMENT | GitHub |
+| STATUS | EXPLORING NEW IDEAS |
 
 </div>
 
-### 🎯 CURRENT MISSION
+### 🕹️ DEVELOPMENT MISSIONS
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=5000&pause=2000&color=FF6B9D&center=true&vCenter=true&width=850&height=100&lines=LEARN+NEW+TECHNOLOGIES;BUILD+REAL+WORLD+PROJECTS;EXPLORE+INTELLIGENT+SYSTEMS;LEVEL+UP+EVERY+DAY" alt="Pixel mission animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=4500&pause=1800&color=FF6B9D&center=true&vCenter=true&width=850&height=100&lines=%5B01%5D+BUILD+USEFUL+SOFTWARE;%5B02%5D+EXPLORE+AI+%26+ML;%5B03%5D+DEVELOP+INTELLIGENT+SYSTEMS;%5B04%5D+EXPLORE+SIGNAL+PROCESSING" alt="Pixel development missions" />
 
 </div>
 
-### 🌐 PLAYER CONNECTION
+### ⚡ TECHNOLOGY POWER
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SOFTWARE_ENGINEERING-00A6A6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DIGITAL_SIGNAL_PROCESSING-FF6B9D?style=for-the-badge" />
+
+</div>
+
+### 📟 SYSTEM LOG
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=5500&pause=2200&color=00C6FF&center=true&vCenter=true&width=850&height=80&lines=%3E+THINK.+CODE.+CREATE.;%3E+DEBUG.+IMPROVE.+REPEAT.;%3E+NEW+CHALLENGE+DETECTED...; %3E+READY+FOR+THE+NEXT+LEVEL!" alt="Pixel system log" />
+
+</div>
 
 <div align="center">
 
 <a href="https://github.com/jayed-ahmed-asif">
-<img src="https://img.shields.io/badge/ENTER-GITHUB-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://www.linkedin.com/in/jayed-ahmed-asif">
-<img src="https://img.shields.io/badge/CONNECT-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/OPEN-PLAYER%20PROFILE-181717?style=for-the-badge&logo=github" />
 </a>
 
 </div>
-
-## 🧠 Areas of Interest
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayed-ahmed-asif&layout=compact&theme=radical&hide_border=false&langs_count=10&card_width=500&custom_title=Languages%20Across%20My%20Repositories" width="65%" />
-
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-00A6A6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Digital%20Signal%20Processing-FF6B9D?style=flat-square" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Biomedical%20Signal%20Processing-8B5CF6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Astronomical%20Signal%20Processing-0EA5E9?style=flat-square" />
-</p>
-
-<sub align="center">Language statistics update from indexed public repository data. Areas of interest are manually described, not automatically inferred.</sub>
-
 ---
 
 ## 🛠️ Technical Toolkit
