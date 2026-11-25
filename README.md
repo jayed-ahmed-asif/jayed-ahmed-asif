@@ -100,19 +100,18 @@ I am a developer interested in building practical software solutions and explori
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jayed-ahmed-asif&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=false&rank_icon=github&custom_title=Jayed%20Ahmed%20Asif%27s%20GitHub%20Statistics" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=jayed-ahmed-asif&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&custom_title=GitHub%20Overview" width="75%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayed-ahmed-asif&layout=compact&theme=radical&hide_border=false&langs_count=8" width="41%" />
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=jayed-ahmed-asif&theme=radical&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" width="75%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayed-ahmed-asif&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=450&custom_title=Most%20Used%20Languages" width="60%" />
 
 </div>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=jayed-ahmed-asif&theme=radical&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" width="75%" />
-
-</div>
-
----
 
 ## 📅 Recent GitHub Activity
 
