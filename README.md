@@ -2,8 +2,8 @@
 
 <div align="center">
 
-<!-- CYBERPUNK NEON HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050014,30:12002E,65:001F3F,100:00E5FF&height=220&section=header&text=JAYED%20AHMED%20ASIF&fontSize=40&fontColor=00F5FF&animation=fadeIn&fontAlignY=38" width="100%" />
+<!-- CYBERPUNK HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050014,30:12002E,65:001F3F,100:00E5FF&height=220&section=header&text=JAYED%20AHMED%20ASIF&fontSize=40&fontColor=00FF41&animation=fadeIn&fontAlignY=38" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=15&duration=4500&pause=2000&color=00F5FF&center=true&vCenter=true&width=750&lines=SOFTWARE+DEVELOPER;AI+%26+MACHINE+LEARNING+ENTHUSIAST;SIGNAL+PROCESSING+ENTHUSIAST;BUILDING+THE+FUTURE+WITH+CODE" alt="Profile Typing Animation" />
 
