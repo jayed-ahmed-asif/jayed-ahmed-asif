@@ -38,29 +38,55 @@ I am a developer interested in building practical software solutions and explori
 
 ---
 
-## 🚀 Featured Projects
+## 🎮 Developer Mode
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AUTOMATIC-PUBLIC%20REPOSITORY%20COUNT-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjayed-ahmed-asif&query=%24.public_repos&label=PUBLIC%20REPOSITORIES&style=for-the-badge&logo=github&color=00C6FF" />
-
-<br/><br/>
-
-<a href="https://github.com/jayed-ahmed-asif?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE-ALL%20MY%20REPOSITORIES-2563EB?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<i>Explore my public repositories, projects, and development work.</i>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=4500&pause=1800&color=00C6FF&center=true&vCenter=true&width=850&height=60&lines=PLAYER+1%3A+JAYED+AHMED+ASIF;DEVELOPER+MODE%3A+ACTIVE;MISSION%3A+BUILD+SOMETHING+USEFUL" alt="Pixel Developer Mode animation" />
 
 </div>
 
----
+### 🕹️ PLAYER PROFILE
+
+| Attribute | Status |
+|---|---|
+| Player | Jayed Ahmed Asif |
+| Class | Software Developer |
+| Primary Platform | GitHub |
+| Mode | Building & Exploring |
+| Current Mission | Developing Practical Solutions |
+
+### ⚡ SKILL UNIVERSE
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI%20%26%20ML-EXPLORING-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Software%20Development-BUILDING-00C6FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Signal%20Processing-INTERESTED-FF6B9D?style=for-the-badge" />
+
+</div>
+
+### 🎯 CURRENT MISSION
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=5000&pause=2000&color=FF6B9D&center=true&vCenter=true&width=850&height=100&lines=LEARN+NEW+TECHNOLOGIES;BUILD+REAL+WORLD+PROJECTS;EXPLORE+INTELLIGENT+SYSTEMS;LEVEL+UP+EVERY+DAY" alt="Pixel mission animation" />
+
+</div>
+
+### 🌐 PLAYER CONNECTION
+
+<div align="center">
+
+<a href="https://github.com/jayed-ahmed-asif">
+<img src="https://img.shields.io/badge/ENTER-GITHUB-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/jayed-ahmed-asif">
+<img src="https://img.shields.io/badge/CONNECT-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+</div>
 
 ## 🧠 Areas of Interest
 
